@@ -1,0 +1,11 @@
+{
+	"Name": "自動クリックMOD",
+	"ID": "auto click mod",
+	"Author": "りょうま",
+	"Description": "クッキーとゴールデンクッキーを自動クリックします。",
+	"ModVersion": 1,
+	"GameVersion": 2.042,
+	"Date": "11/09/2021",
+	"Dependencies": [],
+	"Disabled": 1
+}
